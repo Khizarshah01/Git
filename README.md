@@ -1,4 +1,5 @@
-**Git Command List**
+<h1>Git Command List</h1>
+
 git config >
 
 Usage: git config –global user.name “[name]”
